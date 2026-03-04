@@ -1,0 +1,21 @@
+Features
+
+-file selection using Tkinter file dialog
+-reading data from UTF-8 text files
+-input validation and data cleaning
+-filtering invalid entries (names shorter than 3 characters)
+-generating a processing report
+-saving valid names to a separate file
+-automatic creation of a timestamped report file
+-basic file and directory management
+
+Concepts used:
+
+-file handling (open, reading/writing files)
+-input validation
+-string cleaning (strip, lower)
+-GUI file selection (tkinter.filedialog)
+-working with dates (datetime)
+-directory creation (os.makedirs)
+-loops and conditionals
+-simple reporting system
